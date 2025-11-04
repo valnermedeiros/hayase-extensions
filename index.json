@@ -9,8 +9,9 @@
     "ratio": 0,
     "media": "both",
     "languages": [
-      "US",
-      "JP"
+      "JP",
+      "PT",
+      "US"
     ],
     "icon": "https://nyaa.si/static/favicon.png",
     "update": "gh:vebb374/hayase-extensions",
@@ -26,8 +27,9 @@
     "ratio": 0,
     "media": "both",
     "languages": [
-      "US",
-      "JP"
+      "JP",
+      "PT",
+      "US"
     ],
     "icon": "https://sukebei.nyaa.si/static/favicon.png",
     "update": "gh:vebb374/hayase-extensions",
